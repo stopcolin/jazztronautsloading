@@ -1,6 +1,6 @@
 @font-face {
 	font-family: "KG Shake It Off Chunky"; font-display: block;
-	src: url("resource/fonts/kgshakeitoffchunky.ttf") format("truetype");
+	src: url("../resource/fonts/kgshakeitoffchunky.ttf") format("truetype");
 }
 
 html { min-height: 100vh }
