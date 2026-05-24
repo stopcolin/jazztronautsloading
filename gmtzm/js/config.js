@@ -27,7 +27,7 @@ Config.enableAnnouncements = true;
  * only works if enableAnnouncements = true
  */
 Config.announceMessages = [
-  "Enjoy your stay!",
+  "Have fun!",
 ];
 
 /**
